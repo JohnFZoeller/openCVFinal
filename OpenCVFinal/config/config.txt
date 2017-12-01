@@ -1,0 +1,8 @@
+dataset: oxford
+imageset: boat
+images: img1.ppm, img2.ppm
+homographies: H1to2p.txt
+descriptors: RGBSIFT
+extractor: SURF
+save: false
+display: true
